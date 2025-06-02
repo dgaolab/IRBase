@@ -1,5 +1,8 @@
 # IRBase    
 IRFinder Results for ~1500 Public-available RNASeq    
+
+## File Description:     
+Please download the IRBase data from Google Clould Bucket: gs://irbase 
     
 ## File Description:    
 1. "chrom.sizes" records human chromosome sizes.    

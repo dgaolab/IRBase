@@ -1,10 +1,12 @@
 # IRBase    
 IRFinder Results for ~1500 Public-available RNASeq    
 
-## Data Location:     
-Please download and decompress the IRBase data from the following Google Clould Bucket:   
+## Download:     
+IRBase is under the maintenance mode. The entire database has been compressed and is public available on Google Cloud. Please download it and use locally. Its website functionality has been revoked.       
 ```
-gsutil -m cp gs://irbase/IRBase.tar.gz ./
+mkdir IRBase
+cd IRBase
+wget https://storage.googleapis.com/irbase/IRBase.tar.gz ./
 tar -zxvf IRBase.tar.gz
 ```
     

@@ -1,5 +1,5 @@
 # IRBase    
-IRFinder Results for ~1500 Public-available RNASeq    
+Intron Retention Measurement via IRFinder for ~1500 Public-available RNASeq    
 
 ## Download:     
 IRBase is under the maintenance mode. The entire database has been compressed and is public available on Google Cloud. Please download it and use locally. Its website functionality has been revoked.       

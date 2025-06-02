@@ -3,7 +3,7 @@ IRFinder Results for ~1500 Public-available RNASeq
 
 ## Data Location:     
 Please download the IRBase data from the following Google Clould Bucket: 
-gs://irbase/IRBase.tar.gz
+gs://irbase/IRBase.tar.gz    
 Then decompress it by: `tar -zxvf IRBase.tar.gz`
     
 ## File Description:    
